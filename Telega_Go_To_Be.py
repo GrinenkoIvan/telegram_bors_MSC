@@ -17,7 +17,7 @@
 #
 # if __name__ == '__main__':
 #     # Замените 'YOUR_TELEGRAM_BOT_TOKEN' на ваш токен бота
-#     application = ApplicationBuilder().token('7734145770:AAHM1aL6k_k7mHqZCt6yVEqAAVmFXTGTsDQ').build()
+#     application = ApplicationBuilder().token('').build()
 #
 #     # Добавление обработчика команды /start
 #     start_handler = CommandHandler('start', start)
